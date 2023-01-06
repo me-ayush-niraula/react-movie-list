@@ -1,0 +1,17 @@
+.mainTitle {
+  font-family: "Seymour One", sans-serif;
+  color: white;
+  text-align: center;
+  margin-top: 6px;
+}
+
+p {
+  font-family: "Libre Franklin", sans-serif;
+}
+
+.specialText {
+  background-color: white;
+  color: #041562;
+  padding: 4px;
+  border-radius: 4px;
+}
